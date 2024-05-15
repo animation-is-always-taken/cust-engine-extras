@@ -1,0 +1,167 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:leather_boots": [
+      {
+        "name": "gmdl_693c7a0",
+        "allow_offhand": true,
+        "icon": "gmdl_693c7a0",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:leather_chestplate": [
+      {
+        "name": "gmdl_62c889e",
+        "allow_offhand": true,
+        "icon": "gmdl_62c889e",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:leather_helmet": [
+      {
+        "name": "gmdl_44c0b89",
+        "allow_offhand": true,
+        "icon": "gmdl_44c0b89",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:leather_leggings": [
+      {
+        "name": "gmdl_0e0e3a6",
+        "allow_offhand": true,
+        "icon": "gmdl_0e0e3a6",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:prismarine_crystals": [
+      {
+        "name": "gmdl_782c29b",
+        "allow_offhand": true,
+        "icon": "gmdl_782c29b",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:prismarine_shard": [
+      {
+        "name": "gmdl_25bc503",
+        "allow_offhand": true,
+        "icon": "gmdl_25bc503",
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_a4ea955",
+        "allow_offhand": true,
+        "icon": "gmdl_a4ea955",
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_e2deced",
+        "allow_offhand": true,
+        "icon": "gmdl_e2deced",
+        "custom_model_data": 3
+      },
+	  {
+	    "name": "gmdl_a2ec833",
+	    "allow_offhand": true,
+	    "icon": "gmdl_a2ec833",
+	    "custom_model_data": 4
+	  }
+    ],
+	"minecraft:chainmail_boots": [
+      {
+        "name": "gmdl_704v8s1",
+        "allow_offhand": true,
+        "icon": "gmdl_693c7a0",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:chainmail_chestplate": [
+      {
+        "name": "gmdl_73v990r",
+        "allow_offhand": true,
+        "icon": "gmdl_62c889e",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:chainmail_helmet": [
+      {
+        "name": "gmdl_55v1n90",
+        "allow_offhand": true,
+        "icon": "gmdl_44c0b89",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:chainmail_leggings": [
+      {
+        "name": "gmdl_1r1r4b7",
+        "allow_offhand": true,
+        "icon": "gmdl_0e0e3a6",
+        "custom_model_data": 1
+      }
+    ],
+	"minecraft:diamond_boots": [
+      {
+        "name": "gmdl_815b9dz",
+        "allow_offhand": true,
+        "icon": "gmdl_693c7a0",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:diamond_chestplate": [
+      {
+        "name": "gmdl_84b001t",
+        "allow_offhand": true,
+        "icon": "gmdl_62c889e",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:diamond_helmet": [
+      {
+        "name": "gmdl_66bzm01",
+        "allow_offhand": true,
+        "icon": "gmdl_44c0b89",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:diamond_leggings": [
+      {
+        "name": "gmdl_ztzt5n8",
+        "allow_offhand": true,
+        "icon": "gmdl_0e0e3a6",
+        "custom_model_data": 1
+      }
+    ],
+	"minecraft:iron_boots": [
+      {
+        "name": "gmdl_926n0fx",
+        "allow_offhand": true,
+        "icon": "gmdl_693c7a0",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:iron_chestplate": [
+      {
+        "name": "gmdl_95n112y",
+        "allow_offhand": true,
+        "icon": "gmdl_62c889e",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:iron_helmet": [
+      {
+        "name": "gmdl_77nxq12",
+        "allow_offhand": true,
+        "icon": "gmdl_44c0b89",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:iron_leggings": [
+      {
+        "name": "gmdl_xyxy6m9",
+        "allow_offhand": true,
+        "icon": "gmdl_0e0e3a6",
+        "custom_model_data": 1
+      }
+    ]
+  }
+}
