@@ -1,7 +1,7 @@
 # cust-engine-extras
 the texture pack for the cust engine and the files to make it work with geyser
 
-it works with all branches of the cust engine
+this works with all branches of the cust engine
 
 # Installation 
 for the java resource pack it's just dropping it in %appdata%/.minecraft/resourcepacks like every other resources
