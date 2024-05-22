@@ -194,6 +194,45 @@
         "icon": "gmdl_0e0e3a6",
         "custom_model_data": 1
       }
+    ],
+
+"minecraft:netherite_boots": [
+      {
+        "name": "gmdl_148q2hv",
+        "allow_offhand": true,
+        "icon": "gmdl_693c7a0",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:netherite_chestplate": [
+      {
+        "name": "gmdl_17p334i",
+        "allow_offhand": true,
+        "icon": "gmdl_62c889e",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:netherite_helmet": [
+      {
+        "name": "gmdl_88qxe34",
+        "allow_offhand": true,
+        "icon": "gmdl_44c0b89",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:netherite_leggings": [
+      {
+        "name": "gmdl_vbvb8q2",
+        "allow_offhand": true,
+        "icon": "gmdl_0e0e3a6",
+        "custom_model_data": 1
+    "minecraft:armor_stand": [
+      {
+        "name": "gmdl_bnbn9w3",
+        "allow_offhand": true,
+        "icon": "gmdl_1l2h6b9",
+        "custom_model_data": 1
+      }
     ]
   }
 }
