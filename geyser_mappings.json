@@ -162,6 +162,38 @@
         "icon": "gmdl_0e0e3a6",
         "custom_model_data": 1
       }
+    ],
+"minecraft:golden_boots": [
+      {
+        "name": "gmdl_037m2gc",
+        "allow_offhand": true,
+        "icon": "gmdl_693c7a0",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:golden_chestplate": [
+      {
+        "name": "gmdl_06o223u",
+        "allow_offhand": true,
+        "icon": "gmdl_62c889e",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:golden_helmet": [
+      {
+        "name": "gmdl_88mzw23",
+        "allow_offhand": true,
+        "icon": "gmdl_44c0b89",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:golden_leggings": [
+      {
+        "name": "gmdl_cvcv7n0",
+        "allow_offhand": true,
+        "icon": "gmdl_0e0e3a6",
+        "custom_model_data": 1
+      }
     ]
   }
 }
