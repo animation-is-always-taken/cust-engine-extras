@@ -1,5 +1,5 @@
 # cust-engine-extras
-the texture pack for the cust engine and the files to make it work with geyser (and uses files from [the geyser optional pack](https://github.com/GeyserMC/GeyserOptionalPack))
+the texture pack for the cust engine and the files to make it work with geyser (uses files from [the geyser optional pack](https://github.com/GeyserMC/GeyserOptionalPack))
 
 this works with all branches of the cust engine
 
