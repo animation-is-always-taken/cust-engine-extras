@@ -1,0 +1,30 @@
+{
+  "resource_pack_name": "geyser_custom",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "gmdl_62c889e": {
+      "textures": "textures/minecraft/item/buzo_chestplate"
+    },
+    "gmdl_693c7a0": {
+      "textures": "textures/minecraft/item/buzo_boots"
+    },
+    "gmdl_44c0b89": {
+      "textures": "textures/minecraft/item/buzo_helmet"
+    },
+    "gmdl_a4ea955": {
+      "textures": "textures/minecraft/item/sonar"
+    },
+    "gmdl_0e0e3a6": {
+      "textures": "textures/minecraft/item/buzo_leggings"
+    },
+    "gmdl_782c29b": {
+      "textures": "textures/minecraft/item/bob"
+    },
+    "gmdl_25bc503": {
+      "textures": "textures/minecraft/item/eel_head"
+    },
+    "gmdl_e2deced": {
+      "textures": "textures/minecraft/item/broken_sonar"
+    }
+  }
+}
