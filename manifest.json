@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Este es bob",
+        "name": "Cust resources",
+        "uuid": "0526d956-742b-4324-b996-7ca1223dfe1f",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Este es bob",
+            "type": "resources",
+            "uuid": "ea95b69d-7b67-4870-a27e-76a19f1384b3",
+            "version": [0, 0, 1]
+        }
+    ]
+}
