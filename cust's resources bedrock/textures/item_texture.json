@@ -25,6 +25,9 @@
     },
     "gmdl_e2deced": {
       "textures": "textures/minecraft/item/broken_sonar"
+    },
+    "gmdl_0b487f1": {
+      "textures": "textures/minecraft/item/bob_bucket"
     }
   }
 }
