@@ -113,4 +113,10 @@
 		  "sprite": "textures/minecraft/items/broken_sonar"
 	  }
    ],
+      "armor_stand": [
+      {
+	  	 "custom_model_data": 1,
+		  "sprite": "textures/minecraft/items/bob_bucket"
+	  }
+   ],
 }
