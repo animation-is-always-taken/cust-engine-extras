@@ -7,5 +7,7 @@
   "advancements.cust.buzo.desc": "Craftea un traje de buzo",
   "advancements.cust.root.title": "Cust engine",
   "advancements.cust.root.desc": "Obvserva tu progreso",
-  "cust.bob.bucket": "Cubeta de Bob"
+  "cust.bob.bucket": "Cubeta de Bob",
+  "cust.sonar.func": "Sonar",
+  "cust.sonar.broken": "Sonar roto"
 }
