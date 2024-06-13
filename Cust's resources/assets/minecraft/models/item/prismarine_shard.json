@@ -21,6 +21,24 @@
         "custom_model_data": 3
       },
       "model": "minecraft:item/broken_sonar"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/endtrap_entrance"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/endtrap_icon"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/gamepad"
     }
   ]
 }

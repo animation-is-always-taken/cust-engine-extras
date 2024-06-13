@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "minecraft:item/bob_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/endtrap_icon"
     }
   ]
 }
