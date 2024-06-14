@@ -20,8 +20,8 @@
   "advancements.cust.trapped_endtrap.title": "Bob el constructor",
   "advancements.cust.trapped_endtrap.desc": "Intenta llegar a las islas del end desde una endtrap",
   "cust.bob.bucket": "Cubeta de Bob",
-  "cust.item.crowbar": "Crowbar",
   "cust.sonar.func": "Sonar",
   "cust.sonar.broken": "Sonar roto",
+  "cust.item.crowbar": "Crowbar",
   "cust.buzo.trim": "Traje de buzo"
 }
