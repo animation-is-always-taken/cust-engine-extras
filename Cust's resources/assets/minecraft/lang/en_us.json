@@ -7,6 +7,18 @@
   "advancements.cust.buzo.desc": "Craft a diving suit",
   "advancements.cust.root.title": "Cust engine",
   "advancements.cust.root.desc": "See your progress",
+  "advancements.cust.water.title": "Wet blanket",
+  "advancements.cust.water.desc": "Get in water",
+  "advancements.cust.leave_endtrap.title": "Dimensional slingshot",
+  "advancements.cust.leave_endtrap.desc": "Leave and endtrap",
+  "advancements.cust.trade_endtrap.title": "Galanga",
+  "advancements.cust.trade_endtrap.desc": "Trade with a villager",
+  "advancements.cust.hero_of_endtrap.title": "Freeman",
+  "advancements.cust.hero_of_endtrap.desc": "End an excursion in the end",
+  "advancements.cust.find_sub.title": "Ocean gate",
+  "advancements.cust.find_sub.desc": "Find the submarine (Well, a half)",
+  "advancements.cust.trapped_endtrap.title": "Bob the builder",
+  "advancements.cust.trapped_endtrap.desc": "Try getting to the end islands from an endtrap"
   "cust.bob.bucket": "Bob bucket",
   "cust.sonar.func": "Sonar",
   "cust.sonar.broken": "Broken sonar"
