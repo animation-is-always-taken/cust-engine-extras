@@ -18,8 +18,9 @@
   "advancements.cust.find_sub.title": "Ocean gate",
   "advancements.cust.find_sub.desc": "Find the submarine (Well, a half)",
   "advancements.cust.trapped_endtrap.title": "Bob the builder",
-  "advancements.cust.trapped_endtrap.desc": "Try getting to the end islands from an endtrap"
+  "advancements.cust.trapped_endtrap.desc": "Try getting to the end islands from an endtrap",
   "cust.bob.bucket": "Bob bucket",
   "cust.sonar.func": "Sonar",
-  "cust.sonar.broken": "Broken sonar"
+  "cust.sonar.broken": "Broken sonar",
+  "cust.item.crowbar": "Crowbar"
 }
