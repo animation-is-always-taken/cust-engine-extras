@@ -22,5 +22,6 @@
   "cust.bob.bucket": "Bob bucket",
   "cust.sonar.func": "Sonar",
   "cust.sonar.broken": "Broken sonar",
-  "cust.item.crowbar": "Crowbar"
+  "cust.item.crowbar": "Crowbar",
+  "cust.buzo.trim": "Diving suit"
 }
