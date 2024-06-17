@@ -5,6 +5,48 @@
 		  "sprite": "textures/minecraft/items/eel_head"
 	  }
    ],
+      "prismarine_shard": [
+      {
+	  	 "custom_model_data": 2,
+		  "sprite": "textures/minecraft/items/sonar"
+	  }
+   ],
+      "prismarine_shard": [
+      {
+	  	 "custom_model_data": 3,
+		  "sprite": "textures/minecraft/items/broken_sonar"
+	  }
+   ],
+      "prismarine_shard": [
+      {
+	  	 "custom_model_data": 6,
+		  "sprite": "textures/minecraft/items/endtrap_icon"
+	  }
+   ],
+      "prismarine_shard": [
+      {
+	  	 "custom_model_data": 7,
+		  "sprite": "textures/minecraft/items/gamepad"
+	  }
+   ],
+      "prismarine_shard": [
+      {
+	  	 "custom_model_data": 8,
+		  "sprite": "textures/minecraft/items/music_disc_dog"
+	  }
+   ],
+      "prismarine_shard": [
+      {
+	  	 "custom_model_data": 9,
+		  "sprite": "textures/minecraft/items/music_disc_bolivia"
+	  }
+   ],
+      "prismarine_shard": [
+      {
+	  	 "custom_model_data": 10,
+		  "sprite": "textures/minecraft/items/music_disc_nsmb"
+	  }
+   ],
       "leather_helmet": [
       {
 	  	 "custom_model_data": 1,
@@ -101,22 +143,16 @@
 		  "sprite": "textures/minecraft/items/buzo_boots"
 	  }
    ],
-      "prismarine_shard": [
-      {
-	  	 "custom_model_data": 2,
-		  "sprite": "textures/minecraft/items/sonar"
-	  }
-   ],
-      "prismarine_shard": [
-      {
-	  	 "custom_model_data": 3,
-		  "sprite": "textures/minecraft/items/broken_sonar"
-	  }
-   ],
       "armor_stand": [
       {
 	  	 "custom_model_data": 1,
 		  "sprite": "textures/minecraft/items/bob_bucket"
+	  }
+   ],
+      "iron_sword": [
+      {
+	  	 "custom_model_data": 1,
+		  "sprite": "textures/minecraft/items/crowbar"
 	  }
    ],
 }
