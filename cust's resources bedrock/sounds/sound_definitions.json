@@ -1,0 +1,17 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"animation:music_disc.bolivia": {
+			"category": "record",
+			"sounds": ["sounds/bolivia"]
+		},
+		"animation:music_disc.dog": {
+			"category": "record",
+			"sounds": ["sounds/dog"]
+		},
+		"animation:music_disc.nsmb": {
+			"category": "record",
+			"sounds": ["sounds/nsmb"]
+		}
+	}
+}
