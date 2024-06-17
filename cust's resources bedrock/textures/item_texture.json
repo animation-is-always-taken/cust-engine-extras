@@ -28,6 +28,24 @@
     },
     "gmdl_0b487f1": {
       "textures": "textures/minecraft/item/bob_bucket"
-    }
+    },
+	"gmdl_endinco": {
+		"textures": "textures/minecraft/item/endtrap_icon"
+	},
+	"gmdl_xbox360": {
+		"textures": "textures/minecraft/item/gamepad"
+	},
+	"gmdl_dogdisc": {
+		"textures": "textures/minecraft/item/music_disc_dog"
+	},
+	"gmdl_boldisc": {
+		"textures": "textures/minecraft/item/music_disc_bolivia"
+	},
+	"gmdl_smbdisc": {
+		"textures": "textures/minecraft/item/music_disc_nsmb"
+	},
+	"gmdl_crowbar": {
+		"textures": "textures/minecraft/item/crowbar"
+	}
   }
 }
