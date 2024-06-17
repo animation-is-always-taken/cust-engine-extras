@@ -1,0 +1,26 @@
+{
+  "music_disc.bolivia": {
+    "sounds": [
+      {
+        "name": "animation:records/bolivia",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.dog": {
+    "sounds": [
+      {
+        "name": "animation:records/dog",
+        "stream": true
+      }
+    ]
+  },
+    "music_disc.nsmb": {
+    "sounds": [
+      {
+        "name": "animation:records/nsmb",
+        "stream": true
+      }
+    ]
+  }
+ }
