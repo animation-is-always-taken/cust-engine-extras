@@ -26,5 +26,7 @@
   "cust.buzo.trim": "Diving suit",
   "jukebox_song.minecraft.dog": "C418 - dog",
   "jukebox_song.minecraft.bolivia": "Los Enanitos Verdes - Lamento Boliviano",
-  "jukebox_song.minecraft.nsmb": "I'm gonna get sued"
+  "jukebox_song.minecraft.nsmb": "I'm gonna get sued",
+  "advancements.cust.crash.title": "advancements.cust.crash.title",
+  "advancements.cust.crash.desc": "Survive a server crash"
 }
