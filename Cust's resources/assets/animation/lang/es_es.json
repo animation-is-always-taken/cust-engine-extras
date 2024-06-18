@@ -27,5 +27,7 @@
   "cust.item.music_disc_dog": "Disco",
   "jukebox_song.minecraft.dog": "C418 - dog",
   "jukebox_song.minecraft.bolivia": "Los Enanitos Verdes - Lamento Boliviano",
-  "jukebox_song.minecraft.nsmb": "Me van a demandar"
+  "jukebox_song.minecraft.nsmb": "Me van a demandar",
+  "advancements.cust.crash.title": "advancements.cust.crash.title",
+  "advancements.cust.crash.desc": "Sobrevive al primer crasheo del server"
 }
