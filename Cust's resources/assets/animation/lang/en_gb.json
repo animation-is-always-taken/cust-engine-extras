@@ -1,7 +1,7 @@
 {
   "advancements.cust.bob.bucket.title": "To take",
   "advancements.cust.bob.bucket.desc": "Put Bob in a bucket",
-  "advancements.cust.xen.title": "Xen",
+  "advancements.cust.xen.title": "Endtrapped",
   "advancements.cust.xen.desc": "Get stuck in the end",
   "advancements.cust.buzo.title": "Diving",
   "advancements.cust.buzo.desc": "Craft a diving suit",
@@ -19,14 +19,21 @@
   "advancements.cust.find_sub.desc": "Find the submarine (Well, a half)",
   "advancements.cust.trapped_endtrap.title": "Bob the builder",
   "advancements.cust.trapped_endtrap.desc": "Try getting to the end islands from an endtrap",
+  "advancements.cust.sea_heart.title": "Magic diving",
+  "advancements.cust.sea_heart.desc": "Activate a conduit",
+  "advancements.cust.qz_find.title": "The cointainment wall",
+  "advancements.cust.qz_find.desc": "Get to the containment facility",
+  "advancements.cust.qz_enter.title": "The quarentine zone",
+  "advancements.cust.qz_enter.desc": "Get to the quarentine zone",
+  "advancements.cust.crash.title": "advancements.cust.crash.title",
+  "advancements.cust.crash.desc": "Survive a server crash"
   "cust.bob.bucket": "Bob bucket",
   "cust.sonar.func": "Sonar",
   "cust.sonar.broken": "Broken sonar",
   "cust.item.crowbar": "Crowbar",
   "cust.buzo.trim": "Diving suit",
+  "cust.item.music_disc_dog": "Music disc",
   "jukebox_song.minecraft.dog": "C418 - dog",
   "jukebox_song.minecraft.bolivia": "Los Enanitos Verdes - Lamento Boliviano",
-  "jukebox_song.minecraft.nsmb": "I'm gonna get sued",
-  "advancements.cust.crash.title": "advancements.cust.crash.title",
-  "advancements.cust.crash.desc": "Survive a server crash"
+  "jukebox_song.minecraft.nsmb": "I'm gonna get sued"
 }

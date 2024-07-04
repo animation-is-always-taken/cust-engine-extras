@@ -19,6 +19,14 @@
   "advancements.cust.find_sub.desc": "Encuentra el submarino (bueno, la mitad)",
   "advancements.cust.trapped_endtrap.title": "Bob el constructor",
   "advancements.cust.trapped_endtrap.desc": "Intenta llegar a las islas del end desde una endtrap",
+  "advancements.cust.crash.title": "advancements.cust.crash.title",
+  "advancements.cust.crash.desc": "Sobrevive al primer crasheo del server",
+  "advancements.cust.sea_heart.title": "Buceo magico",
+  "advancements.cust.sea_heart.desc": "Activa un corazón del mar",
+  "advancements.cust.qz_find.title": "El muro",
+  "advancements.cust.qz_find.desc": "Entra al muro de contención",
+  "advancements.cust.qz_enter.title": "La zona de contención",
+  "advancements.cust.qz_enter.desc": "Entra a la zona de contención",
   "cust.bob.bucket": "Cubeta de Bob",
   "cust.item.crowbar": "Crowbar",
   "cust.sonar.func": "Sonar",
@@ -27,7 +35,5 @@
   "cust.item.music_disc_dog": "Disco",
   "jukebox_song.minecraft.dog": "C418 - dog",
   "jukebox_song.minecraft.bolivia": "Los Enanitos Verdes - Lamento Boliviano",
-  "jukebox_song.minecraft.nsmb": "Me van a demandar",
-  "advancements.cust.crash.title": "advancements.cust.crash.title",
-  "advancements.cust.crash.desc": "Sobrevive al primer crasheo del server"
+  "jukebox_song.minecraft.nsmb": "Me van a demandar"
 }
